@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TallerAndroid</string>
+    <string name="aceracde">Acerca de</string>
+    <string name="calificar">Calificar</string>
+    <string name="resultado">Resultado</string>
+    <string name="titulo">Calculadora</string>
+</resources>
